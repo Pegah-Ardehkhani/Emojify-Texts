@@ -6,4 +6,4 @@
 
 ## Objectives 🏆
 
-**One Hidden Layer Neural Network** is implemented from scratch using Numpy.
+This project aims to choose the most appropriate emoji for a text by using NLP models.
